@@ -32,5 +32,5 @@ dependencies {
 }
 
 sponge {
-    plugin.id = "serverlistplus"
+    plugin.id = "Hackeltserverlistplus"
 }
